@@ -8,3 +8,6 @@ https://momentjs.com/docs/#/displaying/
 
 **React Marquee**
 https://www.react-fast-marquee.com/
+
+**Harmonious Colors Group Generator**
+https://coolors.co/
